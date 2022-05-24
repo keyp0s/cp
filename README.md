@@ -1,1 +1,1 @@
-## competitive programming practice
+## competitive programming stuff
