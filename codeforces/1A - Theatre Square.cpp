@@ -23,4 +23,5 @@ int main() {
     long long x = ceil((float)n/a);
     long long y = ceil((float)m/a);
     cout << x*y;
+    return 0;
 }
