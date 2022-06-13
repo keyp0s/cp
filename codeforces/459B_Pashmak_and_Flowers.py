@@ -15,7 +15,7 @@ high = 0
 low = nums[0]
 count = 0
 
-for i in range(len(nums)):
+for i in range(n):
     if nums[i] > high:
         high = nums[i]
     elif nums[i] < low:
